@@ -1,6 +1,6 @@
 # Have different types of python projects
 
-## [Password Generator]()
+## [Password Generator](https://github.com/MohidulHaqueTushar/python-projects/tree/main/password-generator)
 - This project has two part: random password and readable password generator
 	- First part demonstate how to create random passwords:
 		- take a specific length and character combination
